@@ -70,6 +70,7 @@ const mom = {
   sonf: "hujaifa",
   familly: function () {
     this.name();
+    
     console.log("It's call familly.these are my familly");
   },
   name: function () {
@@ -92,4 +93,18 @@ function myName(){
   console.log("i'm not with you boy");
 };
 
+
+console.log(454 ** 54);
+
+const interstaller= {
+  cooper: "main role",
+  amelia:"main female actor",
+ brand:"father of amelia",
+ donald:"father in law of coop",
+ murph:"main supporting female",
+ tars:"robot",
+ case:"second robot",
+ endurance:"vehical",
+
+}
 
