@@ -105,6 +105,17 @@ const interstaller= {
  tars:"robot",
  case:"second robot",
  endurance:"vehical",
+ranger:"ship",
+director:function(){
+  this.movie();
+  console.log(" it is Christopher Nolan");
+},
+movie:function(){
+  console.log("that's was a awsome movie in space science genra. the director is genius.");
+}
 
 }
 
+interstaller.director();
+console.log(interstaller. cooper + " and " + interstaller.amelia + " is love eachother"); 
+ 
