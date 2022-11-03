@@ -118,4 +118,19 @@ movie:function(){
 
 interstaller.director();
 console.log(interstaller. cooper + " and " + interstaller.amelia + " is love eachother"); 
- 
+ console.log ( 545 ** 88);
+
+
+ let ten = 10;
+ console.log( 10 * 10 );
+
+ const laravel = function(song,love){
+  console.log(song + " is my    " + love);
+ };
+
+ laravel("tumi","amar");
+ console.log(laravel.length);
+
+ myName();
+
+ let text = "We are the so-called \"Vikings\" from the north.";
